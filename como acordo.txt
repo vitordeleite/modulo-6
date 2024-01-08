@@ -1,0 +1,12 @@
+1 noto que estou acordado;
+2 abro os olhos;
+3 retiro a coberta;
+4 confiro de qual lado está o chinelo;
+5 se o chinelo tiver do lado direito:
+ 	1 inclino meus pés para a direita;
+  	2 calço eles e levanto;
+6 se não:
+	1 inclino meus pés para a esquerda;
+  	2 calço eles e levanto;
+
+  
